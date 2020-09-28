@@ -8,7 +8,7 @@ import itertools
 
 
 def get_maximums(numbers):
-    result =
+    result =[]
     for elements in number:
 
 	return [0]
